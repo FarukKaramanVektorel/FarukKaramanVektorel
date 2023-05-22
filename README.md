@@ -4,9 +4,8 @@
 <img width="30%" align="right" alt="Github" src="img/giphy.gif" />
 
 🔭 I’m currently working on  Java SpringBoot<br />
-🌱 I’m currently learning React<br />
+🌱 I’m Still learning<br />
 💬 Ask me about anything, I am happy to help;<br />
-📫 How to reach me: farukkaramanvektorel@gmail.com<br />
          
 
       
