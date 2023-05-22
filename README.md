@@ -19,16 +19,17 @@
           </td>
       </tr>
 </table>
+#### My Profiles
 
-
+[<img src="img/hackerrank.webp" width="10%"/>](https://www.hackerrank.com/faruqi78) 
+[<img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" width="10%"/>](https://www.linkedin.com/in/faruk-karaman)  
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FarukKaramanVektorel&layout=pie)](https://github.com/anuraghazra/github-readme-stats)  **[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FarukKaramanVektorel)](https://github.com/anuraghazra/github-readme-stats)**   
 
-[<img src="img/hackerrank.webp" width="10%"/>](https://www.hackerrank.com/faruqi78)  &nbsp; 
-[<img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" width="10%"/>](https://www.linkedin.com/in/faruk-karaman)  &nbsp; 
+
     
-    ### Languages and Tools
+  #### Languages and Tools
   <!-- Your languages and tools. Be careful with the alignment. 
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
   -->
