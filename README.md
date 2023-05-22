@@ -41,7 +41,7 @@
   <code><img width="11%" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg"></code> 
   <code><img width="11%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code> 
   <code><img width="11%" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></code>
-  <code><img width="11%" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-ar21.svg"></code>  
+  <code><img width="11%" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-ar21.svg"></code> 
   <br/>
   <code><img width="11%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
   <code><img width="11%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
