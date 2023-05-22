@@ -6,8 +6,8 @@
 
 
 
-<table >
-    <tr>
+<table>
+    <tr style="border: none">
           <td>
 🔭 I’m currently working on  Java SpringBoot<br />
 🌱 I’m currently learning React<br />
@@ -15,7 +15,7 @@
 📫 How to reach me: farukkaramanvektorel@gmail.com<br />
           </td>
           <td>
-                <img width="50%" align="center" alt="Github" src="img/giphy.gif" />
+                <img width="80%" align="right" alt="Github" src="img/giphy.gif" />
           </td>
       </tr>
 </table>
@@ -25,11 +25,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FarukKaramanVektorel&layout=pie)](https://github.com/anuraghazra/github-readme-stats)  **[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FarukKaramanVektorel)](https://github.com/anuraghazra/github-readme-stats)**   
 
-
-
-<code>
-      <a href="https://www.linkedin.com/in/faruk-karaman/" title="LinkedIn"><img width="22" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/1200px-LinkedIn_icon_circle.svg.png"> LinkedIn</a></code>
-    <code><a href="https://www.hackerrank.com/faruqi78" title="HackerRank"><img width="22" src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png"> HackerRank</a></code>
+[<img src="img/hackerrank.webp" width="10%"/>](https://www.hackerrank.com/faruqi78)  &nbsp; 
+[<img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" width="10%"/>](https://www.linkedin.com/in/faruk-karaman)  &nbsp; 
     
     ### Languages and Tools
   <!-- Your languages and tools. Be careful with the alignment. 
