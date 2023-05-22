@@ -4,11 +4,21 @@
 
 
 
-- 🔭 I’m currently working on  Java SpringBoot
-- 🌱 I’m currently learning React
-- 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: farukkaramanvektorel@gmail.com;
----
+
+
+<table >
+    <tr>
+          <td>
+🔭 I’m currently working on  Java SpringBoot<br />
+🌱 I’m currently learning React<br />
+💬 Ask me about anything, I am happy to help;<br />
+📫 How to reach me: farukkaramanvektorel@gmail.com<br />
+          </td>
+          <td>
+                <img width="50%" align="center" alt="Github" src="img/giphy.gif" />
+          </td>
+      </tr>
+</table>
 
 
 
