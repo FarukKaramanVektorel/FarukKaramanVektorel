@@ -1,4 +1,4 @@
-## `Hi there 👋 , I'm Faruk  Karaman`
+## `Hi there 👋 , I'm Faruk Karaman`
 ---
 #### I'm a Husband, Father, Developer, Teacher and Student!!
 <img width="30%" align="right" alt="Github" src="img/giphy.gif" />
@@ -23,7 +23,7 @@
  ### My statistics
  ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FarukKaramanVektorel&layout=pie)  **![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FarukKaramanVektorel)** 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FarukKaramanVektorel&layout=compact)  **![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FarukKaramanVektorel)** 
   #### Languages and Tools
   ---
 
