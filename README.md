@@ -19,6 +19,7 @@
           </td>
       </tr>
 </table>
+
 #### My Profiles
 
 [<img src="img/hackerrank.webp" width="10%"/>](https://www.hackerrank.com/faruqi78) 
