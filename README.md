@@ -1,6 +1,6 @@
 ## `Hi there 👋 , I'm Faruk Karaman`
 ---
-#### I'm a Husband, Father, Developer, Teacher and Student!!
+#### I am a Husband, Dad, Developer, Teacher and Always a Student!
 <img width="30%" align="right" alt="Github" src="img/giphy.gif" />
 🔭 I’m currently working on  Java SpringBoot<br />
 🌱 I’m Still learning<br />
